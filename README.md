@@ -2,7 +2,7 @@
 
 ##### Iniciando no github
 
-- 👋 Oi, eu sou o @AndreProfessor1B
+- 👋 **Oi, eu sou o @AndreProfessor1B**
 - 👀 Eu estou interessado, em aprender GITHUB
 - 🌱 Eu estou aprendendo JavaScript ...
 - :smile: Estou sorrindo.
